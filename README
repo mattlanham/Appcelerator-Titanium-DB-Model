@@ -17,6 +17,9 @@ updated so you just need to include them in your table
 
 
 Usage:
+TO INCLUDE THE MODEL
+Ti.include('models/item.js');
+
 TO CREATE A NEW ENTRY
 var item = new Item();
 item.name = 'Example';
