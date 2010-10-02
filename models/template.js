@@ -179,7 +179,7 @@ function Singular() {
 
 			db.execute(updateSQL);
 
-			Ti.API.info('The recorded with ID ' + this[this.idColumn] + ' was updated affecting ' + db.lastInsertRowId + ' rows');
+			Ti.API.info('The recorded with ID ' + this[this.idColumn] + ' was updated');
 
 			// Close the DB
 			db.close();
