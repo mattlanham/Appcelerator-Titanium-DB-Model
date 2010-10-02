@@ -2,9 +2,10 @@
 Simple JS Model for Appcelerator Titanium
 ----------------------------------------------------------------
 
-This is a really simple template for a model to handle database interaction when using
-Appcelerator Titanium to build iPhone / Android applications, there are some really 
-useful functions, and you can easily add your own custom functions.
+This is a really simple template for a model to handle database 
+interaction when using Appcelerator Titanium to build iPhone / 
+Android applications, there are some really useful functions, 
+and you can easily add your own custom functions.
 
 We like to place them in their own folder called models i.e.
 /Resources/models/item.js
@@ -12,11 +13,17 @@ We like to place them in their own folder called models i.e.
 ----------------------------------------------------------------
 INSTRUCTIONS:
 ----------------------------------------------------------------
-Replace all occurances of Singular with your desired name, i.e. Item, Person, Setting etc
-Replace all occurendes of TABLE with the name of your table, i.e. ITEMS, PEOPLE, SETTINGS
-Replace all occurences of DB with the name of your DB
-Enter all your columns in the this.columns array, created and updated will be automatically
-updated so you just need to include them in your table
+Replace all occurrences of Singular with your desired name, i.e. 
+Item, Person, Setting etc 
+
+Replace all occurrences of TABLE with the name of your table, 
+i.e. ITEMS, PEOPLE, SETTINGS 
+
+Replace all occurrences of DB with the name of your DB. 
+
+Enter all your columns in the this.columns array, created and 
+updated will be automatically updated so you just need to 
+include them in your table.
 
 ----------------------------------------------------------------
 USAGE:
