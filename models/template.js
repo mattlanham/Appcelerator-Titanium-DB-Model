@@ -14,7 +14,8 @@ Ti.include('includes/phpjs.js');
  * Replace all occurences of DB with the name of your DB
  * Enter all your columns in the this.columns array, created and updated will be automatically
  * updated so you just need to include them in your table
- * 
+ *
+ * http://github.com/swanify/Appcelerator-Titanium-DB-Model
  */
 
 function Singular() {	

@@ -2,6 +2,8 @@
 Simple JS Model for Appcelerator Titanium
 ----------------------------------------------------------------
 
+http://github.com/swanify/Appcelerator-Titanium-DB-Model
+
 This is a really simple template for a model to handle database 
 interaction when using Appcelerator Titanium to build iPhone / 
 Android applications, there are some really useful functions, 
